@@ -1,2 +1,2 @@
 # Billing-System
-This is a billing system
+The purpose of this project is to develop a user-friendly Billing system in C++to assist in shops. The Billing system will be taking data entries from the user like the name of the product, quantity, and price. It will be a menu-driven program that will be giving the user a choice to add, remove or edit item details. The billing system is supposed to calculate the final amount and print the bill. The Billing System will be capable of creating more than one bill.
